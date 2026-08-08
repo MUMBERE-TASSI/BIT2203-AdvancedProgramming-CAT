@@ -258,3 +258,14 @@ questions are implemented.
 **Name:** MUMBERE TASSI DIEUMERCI
 
 **Registration Number:** SCT221-0594/2024
+### Question 3 – Servlets
+
+Question 3 uses the Java Servlet API.
+
+Dependency:
+- Servlet API 4.0.1
+- JAR: servlet-api-4.0.1.jar
+
+The Servlet API is required to compile ShoppingCartServlet.java.
+A Servlet container such as Apache Tomcat is required to deploy
+and execute the servlet as a web application.
