@@ -919,13 +919,7 @@ The seven questions cover important areas including:
 * Servlet lifecycle
 * MVC architecture
 
-Each question has been organized separately within the project repository.
 
-The source code has been compiled and tested using Java and Maven, with web-based components designed for deployment using Apache Tomcat.
-
-The project has also been managed using Git and submitted through a public GitHub repository as required by the assessment.
-
-This repository therefore provides both the implementation and documentation of the work completed for the BIT2203 Take-Away CAT.
 
 ---
 
@@ -933,7 +927,7 @@ This repository therefore provides both the implementation and documentation of 
 
 **Student Name:** MUMBERE TASSI DIEUMERCI
 
-**Registration Number:** YOUR_REGISTRATION_NUMBER
+**Registration Number:** SCT221-0594/2024
 
 **Course:** BIT2203 – Advanced Programming
 
@@ -949,9 +943,8 @@ https://github.com/MUMBERE-TASSI/BIT2203-AdvancedProgramming-CAT
 
 ---
 
-## Final Checklist
+## MY Final Checklist
 
-Before submission, confirm the following:
 
 * [ ] Registration number has been added.
 * [ ] `README.md` is present.
