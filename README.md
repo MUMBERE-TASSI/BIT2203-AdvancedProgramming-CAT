@@ -3,7 +3,7 @@
 ## Take-Away CAT
 
 **Student Name:** MUMBERE TASSI DIEUMERCI
-**Registration Number:** YOUR_REGISTRATION_NUMBER
+**Registration Number:** SCT221-0594/2024
 **Course:** BIT2203 – Advanced Programming
 **Institution:** Jomo Kenyatta University of Agriculture and Technology (JKUAT)
 **Assessment:** Take-Away CAT
